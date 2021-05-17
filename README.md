@@ -11,7 +11,7 @@ Both models are only run for 2 epochs because they achieve perfect performance o
 The data for this demo comes from the 'Fruits 360' dataset by Miahi Olteran available on kaggle at: 
 https://www.kaggle.com/moltean/fruits
 
-All the data used is contained in the 'data.zip' file.
+All the data used here is contained in the 'data.zip' file.
 
 Dataset Properties:
 
